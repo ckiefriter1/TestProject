@@ -15,7 +15,7 @@ public class Application {
 		
 		// Code that executes when this class is run as a program.
 		System.out.println("*** My first Java program ***");
-		System.out.println("-----------------------------");
+		System.out.println("------------------------------");
 		
 		// System properties accessible in Java language in System class
 		// https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html
